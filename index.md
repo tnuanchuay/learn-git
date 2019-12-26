@@ -1,5 +1,5 @@
 ## SKRU ComSci
-    สวัสดีทุกคนๆๆ
+
 - 5535512104 Tossapon Nuanchuay
 - 624234002 Jaruwat Thongchan
 - 604234008  Danai Jaroenpakdeesakul
