@@ -1,9 +1,17 @@
 ## SKRU ComSci
 
-5535512104 Tossapon Nuanchuay
-<<<<<<< HEAD
-624234002 Jaruwat Thongchan
-=======
-604234030 Arrawee Ma-eakhian
->>>>>>> 3977c35c5a5134c693a966cebc3f900d2045e942
--604234018 Rosama Aisani
+
+- 5535512104 Tossapon Nuanchuay
+
+- 624234002 Jaruwat Thongchan
+
+- 604234030 Arrawee Ma-eakhian
+
+- 604234018 Rosama Aisani
+
+- 604234008  Danai Jaroenpakdeesakul
+- 5535512104 Tossapon Nuanchuay
+- 624234002 Jaruwat Thongchana
+- 604234030 Arrawee Ma-eakhian
+- 604234002 Khanistha Khawthae
+
