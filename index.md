@@ -1,21 +1,14 @@
 ## SKRU ComSci
-
-
 - 5535512104 Tossapon Nuanchuay
-
 - 624234002 Jaruwat Thongchan
-
 - 604234030 Arrawee Ma-eakhian
-
 - 604234018 Rosama Aisani
-
 - 604234008  Danai Jaroenpakdeesakul
 - 5535512104 Tossapon Nuanchuay
 - 624234002 Jaruwat Thongchana
 - 604234030 Arrawee Ma-eakhian
 - 604234031 aekkarak khogsorn 
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 >>>>>>> 4292c43f3471d29d983977dcdb54f631c4810c0f
 =======
 - 604234002 Khanistha Khawthae
@@ -23,4 +16,4 @@
 =======
 - 604234002 Khanistha Khawthae
 
->>>>>>> ad8632503ad02e9c697afbd889e75e108c4ed7a5
+>>>>>>> ad8632503ad02e9c697afbd889e75e108c4ed7a
