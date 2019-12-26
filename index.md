@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-## ComSic
-
-aekkarak khogsorn 604234031
-
-=======
 ## SKRU ComSci
 
 
@@ -19,6 +13,7 @@ aekkarak khogsorn 604234031
 - 5535512104 Tossapon Nuanchuay
 - 624234002 Jaruwat Thongchana
 - 604234030 Arrawee Ma-eakhian
+- 604234031 aekkarak khogsorn 
 <<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> 4292c43f3471d29d983977dcdb54f631c4810c0f
