@@ -13,4 +13,6 @@
 - 604234017 fatimah sa-ah
 - 604234028 A-deenas Sabubok
 - 604234019 Ruhanee Smurt
-- Nalinee Inthamano
+- 604235023 Rewat Suwanmoung
+- 604235014 Nititorn Yodkaew
+- Nalinee
