@@ -1,5 +1,5 @@
 ## SKRU ComSci
-
+- 604235032 Amrudeen Ma-keh
 - 5535512104 Tossapon Nuanchuay
 - 624234002 Jaruwat Thongchan
 - 604234008  Danai Jaroenpakdeesakul
@@ -13,8 +13,9 @@
 - 604234017 fatimah sa-ah
 - 604234028 A-deenas Sabubok
 - 604234019 Ruhanee Smurt
-- 604235032 Amrudeen Ma-keh
+- 604235036 Alawee Usoh
 - 604235023 Rewat Suwanmoung
 - 604235014 Nititorn Yodkaew
+- 604235013 Nasrin Yusoh
 - Nalinee
 
