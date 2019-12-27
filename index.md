@@ -19,5 +19,6 @@
 - 604235036 Alawee Usoh
 - 604235023 Rewat Suwanmoung
 - 604235014 Nititorn Yodkaew
+- 604235013 Nasrin Yusoh
 - Nalinee
 
