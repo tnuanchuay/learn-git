@@ -1,5 +1,5 @@
 ## SKRU ComSci
-
+- 604235032 Amrudeen Ma-keh
 - 5535512104 Tossapon Nuanchuay
 - 624234002 Jaruwat Thongchan
 - 604234008  Danai Jaroenpakdeesakul
