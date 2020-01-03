@@ -29,4 +29,4 @@ aekkarak khogsorn 604234031
 
 - 604234002 Khanistha Khawthae
 
-- 604234020 Wanida Baikodem 
+- 604234020 Wanida Baikodem
